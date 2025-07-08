@@ -1,0 +1,6 @@
+# Ignore virtual envs
+fast/Lib/
+__pycache__/
+*.pyc
+*.log
+fast
